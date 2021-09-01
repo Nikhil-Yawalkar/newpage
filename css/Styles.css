@@ -1,0 +1,48 @@
+			body{
+				background-color: #A3DDCB;
+			
+			        }
+/*
+			h1{
+				color: #66BFBF
+			}
+			
+			h2{
+				color: #66BFBF
+			}
+
+			h3{
+				color: white
+			}
+*/
+			img{
+				width: 100px;
+				height:100px;
+				background-color: red;
+			}
+
+			hr{
+				background-color:  #EAF6F6;
+				border-style:dotted none none;
+				border-color:#777799;
+				border-width:3px;
+				height: 0px;
+				
+			}
+			.fruits{
+				color: green; 
+			}
+			.fruits:hover{
+				background-color: #777799;
+			}
+			.link:hover{
+				background-color: #FFB319;
+			}
+			a:hover{
+				background-color: #FFB319;
+			}
+
+			#heading{
+				color: blue;
+			}
+			
